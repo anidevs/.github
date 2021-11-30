@@ -1,13 +1,10 @@
 ## Hi there 👋
 
 # Animedoro Discord Bot
-:wave: Welcome to the home of the Anime Discord Bot! :wave:
+:wave: Welcome to the home of the Animedoro Discord Bot! 👋
 
-Here are the repositories for the group that developed and manages the Animedoro Discord Bot!
+Find all of the repositories for the group that developed and manages the Animedoro Discord Bot.
 
-<!--
-
-**Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
