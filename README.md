@@ -1,2 +1,2 @@
 # .github
-Profile for the Animedoro Discord Bot Developers' GitHub Organization page.
+Profile for the AniDevs' GitHub Organization page.
